@@ -1,3 +1,5 @@
+Canvi 1 fet per Miguel Angel
+
 # laundry management system
 
 ---
