@@ -1,6 +1,6 @@
 Canvi 1 fet per Miguel Angel
-Hola, soc en Miguel Angel (propietari)
-Hola, soc en Miguel Angel (col·laborador)
+Hola, soc en Miguel Ángel (propietari)
+Hola, soc en Miguel Ángel (col·laborador)
 
 # laundry management system
 
