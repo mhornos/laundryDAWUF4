@@ -1,4 +1,5 @@
 Canvi 1 fet per Miguel Angel
+Hola, soc en Miguel Angel (propietari)
 
 # laundry management system
 
